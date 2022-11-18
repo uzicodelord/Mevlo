@@ -68,4 +68,4 @@ Due to the typical location of the various parts of the city - all surrounded by
     <source src="./video/venice.mp4" type="video/mp4">
 </video>
 <iframe width="500px" height="300px" src="https://www.youtube.com/embed/1_5n1EfcWyM?start=19" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <br><br><br>
+    <br><br>
